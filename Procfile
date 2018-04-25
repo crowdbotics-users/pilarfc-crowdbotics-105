@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pilarfc_crowdbotics_105.wsgi:application
